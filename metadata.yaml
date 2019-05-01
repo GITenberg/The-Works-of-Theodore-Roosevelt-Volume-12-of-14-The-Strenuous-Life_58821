@@ -1,5 +1,8 @@
 _repo: The-Works-of-Theodore-Roosevelt-Volume-12-of-14-The-Strenuous-Life_58821
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58821-h/images/cover.jpg
 creator:
   author:
     agent_name: Roosevelt, Theodore
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58821#The-Works-of-Theodore-Roosevelt-Volume-12-of-14-The-Strenuous-Life
 gutenberg_issued: '2019-02-03'
 gutenberg_type: Text
 identifiers:
